@@ -14,6 +14,10 @@ This repository stores reusable skills for API and engineering workflows.
   - Skill name: `nbtca-repair-ticket-api`
   - Purpose: create/query/update repair tickets (events), validate lifecycle actions, and troubleshoot auth/request issues
 
+- `skills/nbtca-docs-review/SKILL.md`
+  - Skill name: `nbtca-docs-review`
+  - Purpose: review a page of the NBTCA documentation site (`nbtca/documents`) and report findings before editing
+
 ## Authentication (NBTCA)
 
 - Personal access token env var: `NBTCA_PAT`
