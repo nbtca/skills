@@ -41,6 +41,14 @@ Read `references/vocabulary.md` before pass 5 and `references/examples.md` befor
 
 Instructions state what to do; only a diagnosis may hedge. "可能是内存接触不良" is fine. "你也许可以试试重插内存" is not.
 
+## The author's voice
+
+Some pages are playful on purpose: jokes, slang, emoji, an aside to the reader. That is the author's voice. It is not a finding, and no proposal rewrites or removes it.
+
+Passes 5 and 6 judge sentences that try to inform and fail. A sentence that tries to amuse is outside them.
+
+On a playful page, report structure as usual. If a joke stands where an instruction should be, so the reader cannot tell what to do, ask for the missing instruction under 需要核实 and leave the joke in place.
+
 ## Three kinds of finding
 
 Sort every finding before you write it down. The kind decides what you may propose.

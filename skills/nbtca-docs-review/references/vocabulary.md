@@ -39,9 +39,9 @@ Quoted material is exempt: a screenshot's alt text, a transcription, or a UI lab
 
 ## Lines to cut
 
-These tell the reader nothing. Propose deleting them.
+These tell the reader nothing. Propose deleting them. A line written to be funny is not on this list; see "The author's voice" in `SKILL.md`.
 
-- Greetings and sign-offs: 感谢阅读, 祝使用愉快, 欢迎联系我们 with no contact after it.
+- Stock greetings and sign-offs: 感谢阅读, 祝使用愉快, 欢迎联系我们 with no contact after it.
 - A closing 总结 that restates the page.
 - A sentence that announces the next one: 下面介绍…, 接下来我们来看….
 - A list of a tool's advantages on a page for people already using it.
