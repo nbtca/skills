@@ -22,12 +22,6 @@ Every 原文 is a sentence from the site. Each shows one finding as it should ap
 - 问题：读者读到这里已经拿到了要的东西，这句话不带任何信息。
 - 改法：删掉。
 
-**A summary that restates the page** (`process/2025/nbtca-post.md`)
-
-- 原文：“## 三、总结　学会使用 Git + Markdown，你就能参与到开源协作中了！”
-- 问题：这一节没有新内容，读者也不需要被告知自己学会了什么。
-- 改法：删掉这一节。
-
 ## 结构
 
 **A title that names the document, not the task** (`tutorial/manual/tailscale-usage.md`)
